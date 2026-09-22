@@ -9,5 +9,3 @@
   <a href="https://discord.com/users/853714420042301452"><img src="buttons/discord.svg" alt="Discord"></a>
   <a href="https://getgems.io/atypicaldomain/"><img src="buttons/getgems.svg" alt="GetGems"></a>
 </p>
-
-
